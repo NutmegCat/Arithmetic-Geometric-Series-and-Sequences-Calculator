@@ -2,7 +2,7 @@
 
 ## Objective
 ---
-<br>
+
 
 - Write a program that repeatedly prompts the user to select an arithmetic or geometric series or sequence. It then must ask the user for the appropriate variables. It must then print out the answer.
 
